@@ -44,8 +44,6 @@
 # - Elimine los registros con informacion no disponible.
 # - Para la columna EDUCATION, valores > 4 indican niveles superiores
 #   de educación, agrupe estos valores en la categoría "others".
-# - Renombre la columna "default payment next month" a "default"
-# - Remueva la columna "ID".
 #
 #
 # Paso 2.
